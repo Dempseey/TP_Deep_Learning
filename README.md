@@ -23,7 +23,9 @@ Requirements : ( tensorflow, numpy, seaborn, matlpotlib )
 
 - Dans le fichier `Deep_learning_Pred.py` une fonction permettant de réaliser quelques prédictions ( 20 ).  
 
-- Dans le fichier `Matrice_De_Confusion.py` une matrice de confusion sur 200 prédictions du modèle sans couche de convolution.  
+- Dans le fichier `Matrice_De_Confusion.py` une matrice de confusion sur 200 prédictions du modèle sans couche de convolution.
+![image](https://github.com/Dempseey/TP_Deep_Learning/assets/101803968/db10a576-88af-452b-b040-39c2cc055edf)
+
 
 ## Conclusion
 Nous avons réussi à améliorer la précision de ~5 points ( % ).  
