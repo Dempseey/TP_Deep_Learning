@@ -2,7 +2,7 @@
 
 ## Objectif
 L'objectif de ce projet est de démontrer la capacité des couches convolutionnelles à améliorer la précision d'un modèle de classification d'image.  
-Requirements : ( tensorflow, numpy )
+Requirements : ( tensorflow, numpy, seaborn, matlpotlib )
   
 ## Réalisation
 - Dans le fichier `Deep_learning.py` un modèle de base qui est une séquence de couches :
